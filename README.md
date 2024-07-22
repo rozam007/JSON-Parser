@@ -1,7 +1,10 @@
 # JSON-Parser
 
-Basically It is a 2-Step process
+<img width="150" alt="json-parser" src="https://github.com/user-attachments/assets/1ff89031-07ab-486a-9768-b795f527ca3c">
+
 1- Lexical Analysis (Tokenization)
+Basically It is a 2-Step process
+
 2- Parser
 
 Lexical Analysis:
